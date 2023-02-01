@@ -1,0 +1,18 @@
+.block{
+    float: left;
+    width: 33.3%;
+}
+
+#main_block{
+    float: left;
+    width: 70%;
+}
+
+#side_bar{
+    float: right;
+    width: 30%;
+}
+
+.clearfix{
+    clear: both;
+}
